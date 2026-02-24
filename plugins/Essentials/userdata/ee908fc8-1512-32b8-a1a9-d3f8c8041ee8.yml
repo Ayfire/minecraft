@@ -1,0 +1,95 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.178.199.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1770859080042
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1770859139236
+  login: 1770856115249
+money: '0'
+last-account-name: LoftStory
+homes:
+  home:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -89.93368972052215
+    y: 88.0
+    z: 493.03610837744253
+    yaw: -70.84130859375
+    pitch: 21.10338020324707
+  spawn:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -128.56565689064453
+    y: 64.0
+    z: 754.3993372904753
+    yaw: -107.46478271484375
+    pitch: 18.557790756225586
+  build:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -63.95539232610102
+    y: 110.0
+    z: 465.9962197459966
+    yaw: 12.759124755859375
+    pitch: 52.52555847167969
+  exp1:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 13.075781490459603
+    y: 3.0
+    z: 711.6265734056334
+    yaw: 160.317626953125
+    pitch: 24.34007453918457
+  exp2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -290.4168729480689
+    y: -29.0
+    z: 755.1872050869017
+    yaw: 97.2235107421875
+    pitch: 28.469568252563477
+  end:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -431.5532771200791
+    y: 22.0
+    z: 2642.45888593963
+    yaw: 51.95489501953125
+    pitch: 11.525674819946289
+  cite:
+    world: 154ffdec-e270-4a73-a38d-a3748062ea01
+    world-name: world_the_end
+    x: 116.87514344666455
+    y: 108.0
+    z: 8776.064753412082
+    yaw: -165.746826171875
+    pitch: 21.886028289794922
+logoutlocation:
+  world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+  world-name: world
+  x: 11.075634316541986
+  y: 3.0
+  z: 713.9857225236566
+  yaw: 166.8779754638672
+  pitch: 25.426939010620117
+lastlocation:
+  world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+  world-name: world
+  x: -49.18634857966506
+  y: 69.0
+  z: 750.313143533925
+  yaw: 86.55548095703125
+  pitch: 5.8734540939331055

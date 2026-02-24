@@ -1,0 +1,143 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.254.110.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1771542263128
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1771847197766
+  login: 1771847179439
+money: '0'
+last-account-name: Chichiro735
+homes:
+  home:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -34.31014153031677
+    y: 64.0
+    z: 749.9398475021668
+    yaw: -179.8346405029297
+    pitch: 3.1502764225006104
+  k:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 11.633882622889645
+    y: 3.0
+    z: 713.7192287390243
+    yaw: 171.09327697753906
+    pitch: 10.800182342529297
+  n:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 34.48452451920248
+    y: 13.0
+    z: 121.5657173907788
+    yaw: -31.624267578125
+    pitch: -21.899839401245117
+  v:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 2368.8105742964085
+    y: 102.0
+    z: 890.7266208433264
+    yaw: -30.901416778564453
+    pitch: 31.10186767578125
+  y:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: -211.83437749503057
+    y: 14.0
+    z: -267.69999998807907
+    yaw: -8.01904296875
+    pitch: 8.250567436218262
+  b:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 752.7706387929301
+    y: 56.0
+    z: -543.627048078986
+    yaw: 125.69718933105469
+    pitch: 22.342443466186523
+  spider:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -290.5919772737117
+    y: -29.0
+    z: 754.2122606909928
+    yaw: 98.81060791015625
+    pitch: 18.61327362060547
+  base:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -111.43486585048292
+    y: 65.0
+    z: 750.5904776268947
+    yaw: 91.2481689453125
+    pitch: 18.679767608642578
+  trial:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 73.37118047691546
+    y: -17.0
+    z: 814.4394410536665
+    yaw: 24.1732177734375
+    pitch: 10.193991661071777
+  end:
+    world: 154ffdec-e270-4a73-a38d-a3748062ea01
+    world-name: world_the_end
+    x: 4.015688967176204
+    y: 61.0
+    z: -1.4919852455382778
+    yaw: -60.90118408203125
+    pitch: 4.252014636993408
+  endcity:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -13721.193136583954
+    y: -40.0
+    z: -55200.70276762806
+    yaw: 141.623291015625
+    pitch: 22.45206642150879
+  c:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -15681.5
+    y: 182.0
+    z: -34088.5
+    yaw: -76.9735107421875
+    pitch: 34.12314224243164
+  trident:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 2024.4221491745895
+    y: 63.0
+    z: 2172.5831914220585
+    yaw: 115.7326431274414
+    pitch: 71.39998626708984
+lastlocation:
+  world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+  world-name: world_nether
+  x: 26.826878585029686
+  y: 128.0
+  z: 174.47878069535855
+  yaw: -171.53961181640625
+  pitch: 24.000028610229492
+logoutlocation:
+  world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+  world-name: world
+  x: -3239.6436180774176
+  y: 82.46522530832374
+  z: -7637.541388664008
+  yaw: 100.50567626953125
+  pitch: 35.54996109008789

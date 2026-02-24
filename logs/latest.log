@@ -1,0 +1,150 @@
+[00:00:03] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /msg goods normalement
+[00:00:03] [Server thread/INFO]: Erreur : Joueur introuvable.
+[00:00:13] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /msg NoKeyShin c good nn?
+[00:00:13] [Server thread/INFO]: [moi → NoKeyShin] c good nn?
+[00:00:30] [Async Chat Thread - #0/INFO]: <NoKeyShin> oui
+[00:02:17] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /msg NoKeyShin on compte sur toi pour le stuff et tt :)))
+[00:02:17] [Server thread/INFO]: [moi → NoKeyShin] on compte sur toi pour le stuff et tt :)))
+[00:02:28] [Async Chat Thread - #2/INFO]: <NoKeyShin> mdr
+[00:02:47] [Server thread/INFO]: NoKeyShin has made the advancement [Acquire Hardware]
+[00:02:50] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /msg NoKeyShin paul et david vont surement faire une pause ça faisais 2/3 semaine intense
+[00:02:50] [Server thread/INFO]: [moi → NoKeyShin] paul et david vont surement faire une pause ça faisais 2/3 semaine intense
+[00:04:23] [Server thread/INFO]: NoKeyShin issued server command: /sethome b
+[00:07:18] [Server thread/INFO]: NoKeyShin has made the advancement [Isn't It Iron Pick]
+[00:09:14] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:09:17] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:09:28] [Server thread/INFO]: Villager Villager['Villager'/78, uuid='fc90c644-2b48-4a1f-8695-eddb0959eda9', l='ServerLevel[world]', x=-20.30, y=66.00, z=-46.01, cpos=[-2, -3], tl=11720, v=true] died, message: 'Villager was speared by Zombie'
+[00:12:49] [Server thread/INFO]: NoKeyShin issued server command: /sethome t
+[00:13:31] [Server thread/INFO]: NoKeyShin was blown up by Creeper
+[00:13:36] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:14:13] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:16:13] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:17:17] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:17:38] [Server thread/INFO]: NoKeyShin has made the advancement [Not Today, Thank You]
+[00:17:50] [Server thread/INFO]: NoKeyShin was shot by Skeleton
+[00:17:54] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:18:03] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:18:07] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:18:13] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:18:15] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:18:46] [Server thread/INFO]: NoKeyShin was slain by Zombie
+[00:18:49] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:18:56] [Server thread/INFO]: NoKeyShin was slain by Zombie
+[00:20:36] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:23:11] [Server thread/INFO]: NoKeyShin was slain by Enderman
+[00:23:15] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:23:26] [Server thread/INFO]: NoKeyShin was slain by Enderman
+[00:23:30] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:23:43] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:24:36] [Server thread/INFO]: NoKeyShin has made the advancement [Suit Up]
+[00:25:54] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:26:18] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:26:21] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:27:20] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:27:52] [Server thread/INFO]: NoKeyShin was blown up by Creeper
+[00:27:58] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:28:46] [Server thread/INFO]: NoKeyShin issued server command: /home t
+[00:31:59] [Server thread/INFO]: NoKeyShin has made the advancement [Diamonds!]
+[00:32:23] [Server thread/INFO]: NoKeyShin issued server command: /sethome t
+[00:32:26] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:32:42] [Server thread/INFO]: NoKeyShin issued server command: /home t
+[00:36:39] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:37:59] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:40:59] [Server thread/INFO]: Created new objective [Deaths]
+[00:41:04] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:41:25] [Server thread/INFO]: Created new objective [Vie]
+[00:41:46] [Server thread/INFO]: Set display slot list to show objective Deaths
+[00:42:04] [Server thread/INFO]: Set display slot list to show objective Vie
+[00:42:39] [Server thread/INFO]: Set display slot sidebar to show objective Deaths
+[00:42:50] [Server thread/INFO]: NoKeyShin has made the advancement [Sweet Dreams]
+[00:43:16] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /msg NoKeyShin y'a les scoreboard qui sont afficeh?
+[00:43:16] [Server thread/INFO]: [moi → NoKeyShin] y'a les scoreboard qui sont afficeh?
+[00:43:25] [Async Chat Thread - #4/INFO]: <NoKeyShin> nop
+[00:43:38] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /msg NoKeyShin fait tab pour voir
+[00:43:38] [Server thread/INFO]: [moi → NoKeyShin] fait tab pour voir
+[00:43:59] [Async Chat Thread - #4/INFO]: <NoKeyShin> jai le reseaux et les hp
+[00:45:06] [User Authenticator #1/INFO]: UUID of player Ayfire is 4652093a-77ba-4174-a86e-6cd2f3938c3c
+[00:45:06] [Server thread/INFO]: Disconnecting Ayfire (/127.0.0.1:61160): You are not whitelisted on this server!
+[00:45:06] [Server thread/INFO]: Ayfire (/127.0.0.1:61160) lost connection: You are not whitelisted on this server!
+[00:45:21] [Server thread/INFO]: Added Ayfire to the whitelist
+[00:45:23] [User Authenticator #1/INFO]: UUID of player Ayfire is 4652093a-77ba-4174-a86e-6cd2f3938c3c
+[00:45:24] [Server thread/INFO]: Ayfire joined the game
+[00:45:24] [Server thread/INFO]: Ayfire[/127.0.0.1:61172] logged in with entity id 6913 at ([world]1.699999988079071, 66.0, -20.30000001192093)
+[00:45:37] [Server thread/INFO]: NoKeyShin issued server command: /home t
+[00:45:37] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kill Ayfire
+[00:45:37] [Server thread/INFO]: Ayfire died
+[00:45:37] [Server thread/INFO]: Ayfire a été tué.
+[00:45:47] [Server thread/INFO]: Ayfire issued server command: /back
+[00:46:03] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:46:14] [Server thread/INFO]: Reset [Deaths] for Ayfire
+[00:46:37] [Async Chat Thread - #7/INFO]: <Ayfire> c mieux comme ça
+[00:46:42] [Async Chat Thread - #7/INFO]: <Ayfire> y'a les mort a cote
+[00:46:46] [Async Chat Thread - #7/INFO]: <Ayfire> et la vie sur letab
+[00:47:04] [Server thread/INFO]: Ayfire lost connection: Disconnected
+[00:47:04] [Server thread/INFO]: Ayfire left the game
+[00:47:10] [Server thread/INFO]: NoKeyShin issued server command: /home t
+[00:52:25] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:52:41] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:52:50] [Server thread/INFO]: NoKeyShin has made the advancement [Hot Stuff]
+[00:53:28] [Server thread/INFO]: NoKeyShin was slain by Zombie
+[00:53:33] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:53:40] [Server thread/INFO]: NoKeyShin was slain by Zombie
+[00:53:44] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:53:47] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:54:01] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:54:06] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:54:22] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:54:57] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:55:06] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:55:32] [Server thread/INFO]: NoKeyShin issued server command: /home zombie
+[00:55:37] [Server thread/INFO]: NoKeyShin issued server command: /sethome zombie
+[00:55:58] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[00:56:14] [Server thread/INFO]: NoKeyShin issued server command: /sethome zombie
+[00:56:17] [Server thread/INFO]: NoKeyShin issued server command: /back
+[00:56:19] [Server thread/INFO]: NoKeyShin issued server command: /sethome zombie
+[00:56:24] [Server thread/INFO]: NoKeyShin issued server command: /home zombie
+[00:57:53] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[01:05:17] [Server thread/INFO]: NoKeyShin issued server command: /home b
+[01:06:44] [Server thread/INFO]: NoKeyShin lost connection: Disconnected
+[01:06:44] [Server thread/INFO]: NoKeyShin left the game
+[01:49:15] [Server thread/INFO]: Stopping the server
+[01:49:15] [Server thread/INFO]: Stopping server
+[01:49:15] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+60-787f539
+[01:49:15] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.3-SNAPSHOT
+[01:49:15] [Server thread/INFO]: [Geyser-Spigot] Arrêt de Geyser.
+[01:49:15] [Server thread/INFO]: [Geyser-Spigot] L'arrêt de Geyser a réussi.
+[01:49:15] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.7.1
+[01:49:15] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:49:15] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b126-096c605)
+[01:49:15] [WebSocketConnectReadThread-133/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:49:15] [Server thread/INFO]: Saving players
+[01:49:15] [Server thread/INFO]: Saving worlds
+[01:49:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0,08s
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[01:49:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0,00s
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[01:49:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0,00s
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[01:49:15] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[01:49:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:49:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:49:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:49:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:49:15] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[01:49:15] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[01:49:15] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[01:49:15] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

@@ -1,0 +1,635 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.189.150.161
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1771853754415
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1771853958760
+  login: 1771853732460
+money: '0'
+last-account-name: Posayy
+homes:
+  village:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -130.9284735715444
+    y: 64.0
+    z: 754.7716002911303
+    yaw: -78.78289794921875
+    pitch: 27.721736907958984
+  c_squelette:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 11.580989564632324
+    y: 3.0
+    z: 714.4277785536104
+    yaw: 178.9931182861328
+    pitch: 30.691965103149414
+  c_gold:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 31.298566349768883
+    y: 224.0
+    z: -44.64575308883589
+    yaw: 80.24490356445312
+    pitch: 59.55564880371094
+  an1:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 757.9939408097681
+    y: 67.0
+    z: -545.5183523764573
+    yaw: 94.45947265625
+    pitch: 14.755378723144531
+  an2:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 657.5
+    y: 61.0
+    z: -503.5
+    yaw: 162.39772033691406
+    pitch: 21.933277130126953
+  c_spider:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -291.77767612921934
+    y: -29.0
+    z: 752.5518093294888
+    yaw: 39.15409469604492
+    pitch: 35.958251953125
+  w2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -13668.568492649849
+    y: -49.0
+    z: -55234.993546809645
+    yaw: 41.06307601928711
+    pitch: 7.3299336433410645
+  w1:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 5335.7358229739875
+    y: -51.0
+    z: -4150.518803999036
+    yaw: 85.305419921875
+    pitch: 38.02178192138672
+  w3:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 15413.328750350523
+    y: -41.0
+    z: -14000.590460617133
+    yaw: -84.64923095703125
+    pitch: 43.467105865478516
+  an4:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 1151.4211049701885
+    y: 12.0
+    z: -1618.300000011921
+    yaw: 94.30755615234375
+    pitch: 20.63937759399414
+  c_mending:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 2371.583890742243
+    y: 103.0
+    z: 896.3000000119209
+    yaw: 84.38300323486328
+    pitch: 8.392024993896484
+  c_blaze:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 751.251875463774
+    y: 56.0
+    z: -542.8994526726461
+    yaw: 143.10641479492188
+    pitch: 20.886865615844727
+  a3_grotte:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 5290.002379654405
+    y: -26.0
+    z: -4232.746016665541
+    yaw: 136.90103149414062
+    pitch: 9.310038566589355
+  a4_village_dessert:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 10534.331415496497
+    y: 70.0
+    z: -12284.18911864577
+    yaw: 179.07379150390625
+    pitch: 28.236886978149414
+  a5_pale_forest:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 11877.85163427294
+    y: 140.0
+    z: -12673.499112401525
+    yaw: 113.944091796875
+    pitch: 64.50596618652344
+  a6_grass:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 15885.372773176196
+    y: -17.0
+    z: -15157.39791962781
+    yaw: -76.73777770996094
+    pitch: 45.69470977783203
+  a7_ile:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 15969.19305027521
+    y: 63.0
+    z: -15298.376928430902
+    yaw: 95.3970947265625
+    pitch: 17.477956771850586
+  a8_neige:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 15389.275283958239
+    y: 119.0
+    z: -14147.616484053446
+    yaw: -126.25375366210938
+    pitch: 29.35874366760254
+  a9_dessert:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 16757.58212153979
+    y: 65.0
+    z: -16613.041482013305
+    yaw: -148.5982666015625
+    pitch: 19.458106994628906
+  base:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -245.4048638283617
+    y: 78.0625
+    z: 754.957911099068
+    yaw: 174.40261840820312
+    pitch: 30.444381713867188
+  base_de_denis:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -376.4932714685039
+    y: 64.0
+    z: 793.4943676147575
+    yaw: 144.9169921875
+    pitch: 40.44917678833008
+  base_de_david:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -45.169097755780236
+    y: 69.0
+    z: 750.5455128808554
+    yaw: -89.67365264892578
+    pitch: 34.404659271240234
+  a11_praie:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 16933.161416272545
+    y: 66.0
+    z: -19058.896783026707
+    yaw: -67.19991302490234
+    pitch: 33.56658935546875
+  c_end_portail:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -431.40388119011
+    y: 22.0
+    z: 2640.639452159347
+    yaw: 62.722381591796875
+    pitch: 15.978965759277344
+  tc1:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 43.35138025613744
+    y: -15.0
+    z: 761.1771247351475
+    yaw: -14.29658317565918
+    pitch: 46.162662506103516
+  tc2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 68.01516777344241
+    y: -15.0
+    z: 791.1437684505428
+    yaw: -90.26153564453125
+    pitch: 4.0850677490234375
+  end:
+    world: 154ffdec-e270-4a73-a38d-a3748062ea01
+    world-name: world_the_end
+    x: 72.81018966028016
+    y: 58.0
+    z: 29.93994051281703
+    yaw: 110.54358673095703
+    pitch: 17.23048210144043
+  end2:
+    world: 154ffdec-e270-4a73-a38d-a3748062ea01
+    world-name: world_the_end
+    x: 2313.699999988079
+    y: 137.0
+    z: 683.3000000119209
+    yaw: 66.725830078125
+    pitch: 22.371986389160156
+  end3:
+    world: 154ffdec-e270-4a73-a38d-a3748062ea01
+    world-name: world_the_end
+    x: 1961.5696114556606
+    y: 65.0
+    z: 699.9969397162209
+    yaw: -25.321203231811523
+    pitch: 22.180889129638672
+  end1:
+    world: 154ffdec-e270-4a73-a38d-a3748062ea01
+    world-name: world_the_end
+    x: 2079.4113322704748
+    y: 57.0
+    z: 712.2780177311629
+    yaw: -83.241943359375
+    pitch: 29.853761672973633
+  end4:
+    world: 154ffdec-e270-4a73-a38d-a3748062ea01
+    world-name: world_the_end
+    x: 1324.7042610824033
+    y: 133.0
+    z: 3645.445869909452
+    yaw: -161.58203125
+    pitch: 48.113563537597656
+  w16:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 12273.087691588062
+    y: 144.0
+    z: -12222.286359155334
+    yaw: 25.33331298828125
+    pitch: 36.78416061401367
+  w17:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 12289.439128214102
+    y: -40.0
+    z: -12222.699999988079
+    yaw: 42.30133056640625
+    pitch: -86.97335815429688
+  w1_1:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 5237.489699121891
+    y: -22.0
+    z: -4063.308094772555
+    yaw: -149.74322509765625
+    pitch: 50.89254379272461
+  w3_1:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 15553.012125973491
+    y: -46.0
+    z: -14046.216372782428
+    yaw: 86.1355972290039
+    pitch: 25.64602279663086
+  w3_2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 15631.871156681616
+    y: -45.0
+    z: -13992.209124123538
+    yaw: 94.57391357421875
+    pitch: 24.160903930664062
+  w3_5:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 15525.788793009893
+    y: -34.0
+    z: -14031.653983298258
+    yaw: 14.873382568359375
+    pitch: 40.496944427490234
+  w3_3:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 15398.772036375889
+    y: -45.0
+    z: -14080.322873281808
+    yaw: 140.858154296875
+    pitch: 7.82490873336792
+  w3_10:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 15344.740488181023
+    y: -32.0
+    z: -14072.737852106071
+    yaw: 153.5556640625
+    pitch: 28.368730545043945
+  w2_2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -13668.517390526506
+    y: -49.0
+    z: -55234.82131569415
+    yaw: 95.26895141601562
+    pitch: 30.843889236450195
+  w4:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 12314.300000011921
+    y: 71.0
+    z: -12262.459199321896
+    yaw: 91.66773986816406
+    pitch: 49.902557373046875
+  a12_pillager:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 16699.504510241888
+    y: 104.0
+    z: -19802.360267833785
+    yaw: 176.26483154296875
+    pitch: 19.64918327331543
+  a14_mangrove:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 11306.893747268945
+    y: 64.0
+    z: -11114.72959291465
+    yaw: 100.0614013671875
+    pitch: -4.112298965454102
+  test:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 15303.699999988079
+    y: -24.0
+    z: -14076.300000011921
+    yaw: -17.09356689453125
+    pitch: 32.52012252807617
+  aa1:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -816.0612518749743
+    y: 63.0
+    z: 1182.7202431562216
+    yaw: 34.5762939453125
+    pitch: 17.97305679321289
+  aa2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -944.3000000119209
+    y: 65.0
+    z: 3278.5941843978835
+    yaw: 36.309661865234375
+    pitch: 64.75343322753906
+  aa3:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -1471.5554635583824
+    y: 63.0
+    z: 3409.2669451612765
+    yaw: 157.00686645507812
+    pitch: 32.32886505126953
+  aa4:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -4387.178837151453
+    y: 99.0
+    z: 6152.300000011921
+    yaw: -173.59962463378906
+    pitch: -0.8945454359054565
+  aa5:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -6019.8947680170095
+    y: 165.0
+    z: 6640.535143904086
+    yaw: 69.276611328125
+    pitch: 33.81401824951172
+  w5_1:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -5959.387887646104
+    y: -45.0
+    z: 6640.699999988079
+    yaw: -176.485595703125
+    pitch: 68.96119689941406
+  w5_2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -5932.011448875761
+    y: -45.0
+    z: 6579.405368302735
+    yaw: 3.81964111328125
+    pitch: 11.53762149810791
+  w5_3:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -6017.5
+    y: -42.0
+    z: 6532.5
+    yaw: -93.9022216796875
+    pitch: 33.81391143798828
+  w5_4:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -6087.511048456806
+    y: -43.0
+    z: 6503.657461742958
+    yaw: -44.806610107421875
+    pitch: 39.011695861816406
+  aa6:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 18911.459916327396
+    y: 66.0
+    z: -16854.67395078303
+    yaw: 35.8447265625
+    pitch: 40.99207305908203
+  c_creper:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -15674.648185751556
+    y: 50.0
+    z: -34088.69999998808
+    yaw: 69.10297393798828
+    pitch: 66.87916564941406
+  c_paper:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 19.350102783230724
+    y: 100.0
+    z: 712.189243860219
+    yaw: -2.81915283203125
+    pitch: 29.111202239990234
+  c_enderman:
+    world: 154ffdec-e270-4a73-a38d-a3748062ea01
+    world-name: world_the_end
+    x: 227.71820307161767
+    y: 57.0
+    z: 27.21776254929142
+    yaw: 40.41949462890625
+    pitch: 12.84152889251709
+  a16:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 19709.599974416506
+    y: 69.0
+    z: -17192.212792536655
+    yaw: 84.740478515625
+    pitch: 50.892555236816406
+  a15_jungle:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 12673.5
+    y: 89.0
+    z: -11709.5
+    yaw: 80.88194274902344
+    pitch: 5.349743843078613
+  tc3:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 19864.17412176642
+    y: -13.0
+    z: -17295.348016049105
+    yaw: -177.527099609375
+    pitch: 17.725543975830078
+  a17_village:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 32214.717016882776
+    y: 68.0
+    z: -18961.85928951583
+    yaw: -106.6248779296875
+    pitch: 12.280158996582031
+  m1:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 12003.825918896686
+    y: 85.0
+    z: -13558.268101821135
+    yaw: -83.43850708007812
+    pitch: 24.65596580505371
+  a18_turtle:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 22347.644622336047
+    y: 66.0
+    z: -19789.637779331748
+    yaw: -84.356201171875
+    pitch: 31.777536392211914
+  c_fer:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 4225.331429639161
+    y: 68.0
+    z: 786.716057388595
+    yaw: 71.47148895263672
+    pitch: 11.95083999633789
+  m2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 33563.17129998177
+    y: 94.0
+    z: -18906.28584612403
+    yaw: 139.764404296875
+    pitch: 13.27027702331543
+  a19_explo:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 38919.04884841524
+    y: 68.0
+    z: -18949.103781258495
+    yaw: -77.70274353027344
+    pitch: 29.30242156982422
+  an5:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 5066.940810458601
+    y: 9.0
+    z: -1318.315369531142
+    yaw: -114.7403564453125
+    pitch: 33.07147979736328
+  a20_champivache:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 49143.154971821044
+    y: 72.0
+    z: -17097.059340583462
+    yaw: 1.84619140625
+    pitch: 14.2603120803833
+  r1:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 56272.9358779283
+    y: 69.0
+    z: -25265.30000001192
+    yaw: -158.458251953125
+    pitch: 21.43825912475586
+  a21_explo:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 59577.82636876683
+    y: 66.0
+    z: -44821.9084368381
+    yaw: -101.24362182617188
+    pitch: 24.408451080322266
+lastlocation:
+  world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+  world-name: world
+  x: -345.59095528689693
+  y: 47.0
+  z: 486.2589468518479
+  yaw: -99.56478881835938
+  pitch: 11.78515338897705
+logoutlocation:
+  world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+  world-name: world
+  x: -337.6859567060006
+  y: 77.0
+  z: 716.5932947131703
+  yaw: 164.4346923828125
+  pitch: 27.074790954589844
+mail:
+- legacy: false
+  read: true
+  message: j'ai eu une nouvelle trim jte l'ai mis dans la shulker
+  sender-name: Ayfire
+  sender-uuid: 4b73e678-86bc-302e-8a9f-9dfb9045feab
+  timestamp: 1771343150287
+  expire: 0
+- legacy: false
+  read: true
+  message: test
+  sender-name: NoKeyShin
+  sender-uuid: 161eb40f-20ff-3814-8cdc-3639091d3c3e
+  timestamp: 1771027596033
+  expire: 0
+- legacy: false
+  read: true
+  message: test
+  sender-name: NoKeyShin
+  sender-uuid: 161eb40f-20ff-3814-8cdc-3639091d3c3e
+  timestamp: 1771027594664
+  expire: 0
+- legacy: false
+  read: true
+  message: t
+  sender-name: NoKeyShin
+  sender-uuid: 161eb40f-20ff-3814-8cdc-3639091d3c3e
+  timestamp: 1771027588559
+  expire: 0
+- legacy: false
+  read: true
+  message: coucou
+  sender-name: Ayfire
+  sender-uuid: 4b73e678-86bc-302e-8a9f-9dfb9045feab
+  timestamp: 1771027549056
+  expire: 0

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.186.167.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1771883859153
+  login: 1771883280554
+money: '0'
+last-account-name: .GDZEY
+logoutlocation:
+  world: f62091ae-17e6-44b2-99d0-461f3dbd767f
+  world-name: world
+  x: 49.089382
+  y: 66.0
+  z: -14.822411
+  yaw: 45.4012451171875
+  pitch: -4.372528076171875
+lastlocation:
+  world: f62091ae-17e6-44b2-99d0-461f3dbd767f
+  world-name: world
+  x: -2.7442071
+  y: 65.9375
+  z: -14.673243
+  yaw: 128.3706817626953
+  pitch: 13.281478881835938

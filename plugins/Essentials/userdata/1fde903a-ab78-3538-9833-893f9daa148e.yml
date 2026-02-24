@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.196.72.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1770894180750
+  login: 1770894097850
+money: '0'
+last-account-name: IAmDivizion
+logoutlocation:
+  world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+  world-name: world
+  x: 69.2647150862203
+  y: 57.0
+  z: -57.611389465057705
+  yaw: -95.55221557617188
+  pitch: 35.810611724853516

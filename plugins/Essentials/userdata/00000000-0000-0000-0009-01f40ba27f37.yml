@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.250.174.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1771811486345
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1771876928359
+  login: 1771876914017
+money: '0'
+last-account-name: .Ayfire2544
+lastlocation:
+  world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+  world-name: world
+  x: -370.43246
+  y: 70.0
+  z: 795.4385
+  yaw: -112.83894348144531
+  pitch: 41.778778076171875
+logoutlocation:
+  world: f62091ae-17e6-44b2-99d0-461f3dbd767f
+  world-name: world
+  x: 22.5
+  y: 66.0
+  z: -1.5
+  yaw: 85.88714599609375
+  pitch: 24.142410278320312

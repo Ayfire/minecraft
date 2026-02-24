@@ -1,0 +1,6 @@
+kits:
+  debut:
+    delay: 1
+    items:
+    - slot:1 wooden_pickaxe 1
+    - slot:2 cooked_beef 16

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.65.12.129
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1770679698558
+  login: 1770675534142
+money: '0'
+last-account-name: .Zyxthelast0
+logoutlocation:
+  world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+  world-name: world
+  x: -107.48483
+  y: 70.0
+  z: 758.29095
+  yaw: 2.908447265625
+  pitch: 27.992279052734375
+lastlocation:
+  world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+  world-name: world
+  x: -85.69998998807907
+  y: 64.0
+  z: 766.3247
+  yaw: 164.1331787109375
+  pitch: 66.7022705078125

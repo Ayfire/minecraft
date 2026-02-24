@@ -1,0 +1,436 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.254.110.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1771858498129
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1771862403315
+  login: 1771862378320
+  kits:
+    debut: 1771862086282
+    color: 1771862140249
+    dtools: 1771862150483
+    firework: 1771862159353
+    notch: 1771862167590
+    tools: 1771862185911
+money: '0'
+last-account-name: Ayfire
+homes:
+  tout:
+    world: 621718ed-b8c5-4c0c-b42b-596cb70ecb30
+    world-name: world
+    x: -121.2437844855691
+    y: 64.0
+    z: 749.5683839829867
+    yaw: 124.80113220214844
+    pitch: 11.188212394714355
+  b:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -376.76249998807907
+    y: 64.5625
+    z: 793.7117068747265
+    yaw: -22.602914810180664
+    pitch: 52.426700592041016
+  squelette:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 11.478440625214745
+    y: 3.0
+    z: 711.6657976107005
+    yaw: -170.57174682617188
+    pitch: 47.51552200317383
+  toitn:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 31.659604404018264
+    y: 128.0
+    z: -33.08812391479915
+    yaw: 33.679168701171875
+    pitch: 10.827295303344727
+  panda:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 457.1768784206193
+    y: 70.0
+    z: -831.9655478711851
+    yaw: 163.46507263183594
+    pitch: 19.902442932128906
+  tortue:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 5.749857278213778
+    y: 66.0
+    z: 2025.6684981238916
+    yaw: -177.1708984375
+    pitch: 15.652945518493652
+  portal:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: -14.09202394870812
+    y: 63.0
+    z: 92.07272283308052
+    yaw: 136.40594482421875
+    pitch: 22.46530532836914
+  ice:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -1936.467249704399
+    y: 72.0
+    z: 1343.5589332018048
+    yaw: 96.03520202636719
+    pitch: 27.161956787109375
+  village:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -2563.9941632715963
+    y: 64.0
+    z: 1400.3375981992713
+    yaw: -32.2943115234375
+    pitch: 15.6638765335083
+  village2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 2351.76578525575
+    y: 106.0
+    z: 880.3837433428891
+    yaw: -80.38787841796875
+    pitch: 28.63504409790039
+  mending:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 2370.4227473023257
+    y: 103.0
+    z: 897.6999999880791
+    yaw: 53.3134765625
+    pitch: 49.987335205078125
+  canne:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 19.480287174026802
+    y: 97.0
+    z: 715.5816508600631
+    yaw: 80.2286148071289
+    pitch: 47.88904571533203
+  nethertie:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: -315.35574055714363
+    y: 13.0
+    z: 428.9679727588762
+    yaw: -14.66729736328125
+    pitch: 12.527932167053223
+  spider:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -291.64511586665833
+    y: -29.0
+    z: 754.7222695716831
+    yaw: 83.9681167602539
+    pitch: 83.3574447631836
+  gold:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 30.38825500357129
+    y: 224.0
+    z: -44.52131307171811
+    yaw: -170.0435028076172
+    pitch: 87.99817657470703
+  gafk:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 33.311747961885345
+    y: 253.0
+    z: -44.48510298071249
+    yaw: -88.50098419189453
+    pitch: 85.32877349853516
+  messa:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -15308.783833652522
+    y: 64.0
+    z: -34123.10066150674
+    yaw: 13.416412353515625
+    pitch: 23.584739685058594
+  villaged:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -15670.350960629037
+    y: 67.0
+    z: -34044.43032755785
+    yaw: 105.2174072265625
+    pitch: 27.35877799987793
+  villzged2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -15694.686665315463
+    y: 65.0
+    z: -34495.96153255736
+    yaw: -125.02365112304688
+    pitch: 12.731773376464844
+  grenouille:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -15811.390842343675
+    y: 63.0
+    z: -34642.622464986234
+    yaw: 1.022718071937561
+    pitch: 31.67884635925293
+  slime:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -13796.546043022412
+    y: 63.0
+    z: -35268.58045978043
+    yaw: -57.16845703125
+    pitch: 24.738872528076172
+  slime2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -13360.518155157848
+    y: 68.0
+    z: -36864.36364599065
+    yaw: -140.40219116210938
+    pitch: 10.827444076538086
+  blueice:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -12830.853115148375
+    y: 67.0
+    z: -41908.95306110937
+    yaw: 173.0048828125
+    pitch: 12.163804054260254
+  loin:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -30215.342134878796
+    y: 69.0
+    z: -173447.9520251601
+    yaw: -139.11328125
+    pitch: 32.07246780395508
+  blaze:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 750.524841422281
+    y: 56.0
+    z: -543.6402303735096
+    yaw: -122.17788696289062
+    pitch: 10.92279052734375
+  endport:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -430.30000001192093
+    y: 23.0
+    z: 2639.300000011921
+    yaw: 108.0887451171875
+    pitch: 54.83310317993164
+  temple:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -12445.49085104493
+    y: 36.0
+    z: -49938.30000001192
+    yaw: 178.31405639648438
+    pitch: -19.70231056213379
+  corail:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -12334.676219068851
+    y: 65.0
+    z: -50675.23417314309
+    yaw: 113.92704772949219
+    pitch: 11.326610565185547
+  end:
+    world: 154ffdec-e270-4a73-a38d-a3748062ea01
+    world-name: world_the_end
+    x: 13096.226503085614
+    y: 65.0
+    z: -13687.242864527127
+    yaw: -172.119384765625
+    pitch: 4.58653450012207
+  allay:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -13585.326760799535
+    y: 73.0
+    z: -57059.822839734654
+    yaw: -162.1471710205078
+    pitch: 16.85431671142578
+  allay2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -15784.623595064884
+    y: 77.0
+    z: -65202.07853296403
+    yaw: -54.64404296875
+    pitch: 37.35083770751953
+  spawspider2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -22450.479490484275
+    y: -18.0
+    z: -74180.5409725181
+    yaw: 179.0060577392578
+    pitch: 76.15506744384766
+  ancite4:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -23988.75788222223
+    y: -53.0
+    z: -87980.7031836975
+    yaw: -74.79010009765625
+    pitch: 11.98692512512207
+  trial:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -23899.52839015462
+    y: -30.0
+    z: -87956.38921752412
+    yaw: -41.8260498046875
+    pitch: 34.5412712097168
+  creeper:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -15674.312375344138
+    y: 50.0
+    z: -34087.78001262026
+    yaw: 87.4013671875
+    pitch: -35.717124938964844
+  creepafk:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -15681.5
+    y: 182.0
+    z: -34088.5
+    yaw: -167.23162841796875
+    pitch: 90.0
+  withsquelette:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 763.5153625246759
+    y: 67.0
+    z: -522.698359523414
+    yaw: 175.0565185546875
+    pitch: 15.185505867004395
+  base:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -287.69999998807907
+    y: 48.0
+    z: 840.5768488678063
+    yaw: 90.590576171875
+    pitch: 52.33245849609375
+  doubletemple:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -23462.69999998808
+    y: 34.0
+    z: -107629.30000001192
+    yaw: -91.27228546142578
+    pitch: 89.0658187866211
+  mushland:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -24025.30000001192
+    y: 73.0
+    z: -116215.06533101568
+    yaw: -131.346923828125
+    pitch: 17.398569107055664
+  potentielcite:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -23755.23880883232
+    y: 172.0
+    z: -125900.74608071166
+    yaw: -92.838134765625
+    pitch: 44.14815902709961
+  ruin:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -26373.814800114298
+    y: 53.0
+    z: -147680.126110318
+    yaw: -132.7418212890625
+    pitch: 21.200956344604492
+  iron:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: 4224.420731212903
+    y: 68.0
+    z: 786.4624714551949
+    yaw: 2.393855333328247
+    pitch: 89.13255310058594
+  trial2:
+    world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+    world-name: world
+    x: -26367.33660743315
+    y: 13.0
+    z: -147681.65504691118
+    yaw: -23.525634765625
+    pitch: 35.34914779663086
+  withersque:
+    world: 1019ea5f-10d1-40bc-be9a-4a650d318a20
+    world-name: world_nether
+    x: 774.3357598202974
+    y: 55.0
+    z: -305.8232421040135
+    yaw: 89.3897705078125
+    pitch: 19.63420295715332
+  enderman:
+    world: 154ffdec-e270-4a73-a38d-a3748062ea01
+    world-name: world_the_end
+    x: 225.5029252275877
+    y: 57.0
+    z: 33.56843064277525
+    yaw: 93.79542541503906
+    pitch: 90.0
+lastlocation:
+  world: e6ef8550-7064-4bf3-b685-89f3d45f616f
+  world-name: world
+  x: -370.24765428613676
+  y: 97.99433260707697
+  z: 796.7487763135646
+  yaw: -64.97860717773438
+  pitch: 45.22000503540039
+logoutlocation:
+  world: 621718ed-b8c5-4c0c-b42b-596cb70ecb30
+  world-name: world
+  x: -19.629004256602606
+  y: 129.84657497908708
+  z: 55.829603228984446
+  yaw: -41.73046875
+  pitch: 36.32472610473633
+mail:
+- legacy: false
+  read: true
+  message: c'bon on a toutes les trims
+  sender-name: Posayy
+  sender-uuid: 85d87e1b-ef3a-3027-a32e-7032d2508058
+  timestamp: 1771594902354
+  expire: 0
+- legacy: false
+  read: true
+  message: il ne reste plus que la trim des pillagers towers !
+  sender-name: Posayy
+  sender-uuid: 85d87e1b-ef3a-3027-a32e-7032d2508058
+  timestamp: 1771591730146
+  expire: 0
+- legacy: false
+  read: true
+  message: zbeub zbeub
+  sender-name: Posayy
+  sender-uuid: 85d87e1b-ef3a-3027-a32e-7032d2508058
+  timestamp: 1771027560216
+  expire: 0
