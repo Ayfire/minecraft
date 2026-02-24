@@ -1,5 +1,31 @@
 {
   "stats": {
+    "minecraft:killed_by": {
+      "minecraft:pillager": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:porkchop": 3,
+      "minecraft:dirt": 4,
+      "minecraft:stick": 12,
+      "minecraft:cobblestone": 26,
+      "minecraft:poppy": 2,
+      "minecraft:oak_planks": 23,
+      "minecraft:wildflowers": 2,
+      "minecraft:crafting_table": 2,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:oak_log": 6,
+      "minecraft:stone_axe": 1,
+      "minecraft:sentry_armor_trim_smithing_template": 2,
+      "minecraft:goat_horn": 1,
+      "minecraft:spider_eye": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 16,
+      "minecraft:stone_axe": 1,
+      "minecraft:oak_planks": 24,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 1
+    },
     "minecraft:mined": {
       "minecraft:crafting_table": 1,
       "minecraft:oak_log": 6,
@@ -29,54 +55,28 @@
       "minecraft:stone_pickaxe": 15,
       "minecraft:dirt": 4
     },
-    "minecraft:crafted": {
-      "minecraft:stick": 16,
-      "minecraft:stone_axe": 1,
-      "minecraft:oak_planks": 24,
-      "minecraft:stone_pickaxe": 1,
-      "minecraft:crafting_table": 1
-    },
-    "minecraft:killed_by": {
-      "minecraft:pillager": 1
-    },
     "minecraft:custom": {
       "minecraft:interact_with_crafting_table": 2,
-      "minecraft:time_since_rest": 1731,
-      "minecraft:walk_one_cm": 44518,
-      "minecraft:leave_game": 3,
+      "minecraft:time_since_rest": 1982,
+      "minecraft:walk_one_cm": 45566,
+      "minecraft:leave_game": 4,
       "minecraft:walk_under_water_one_cm": 1783,
       "minecraft:damage_taken": 630,
-      "minecraft:play_time": 60341,
+      "minecraft:play_time": 60592,
       "minecraft:damage_dealt": 55,
-      "minecraft:jump": 778,
-      "minecraft:time_since_death": 1655,
+      "minecraft:jump": 780,
+      "minecraft:time_since_death": 1906,
       "minecraft:drop": 7,
       "minecraft:sprint_one_cm": 71340,
       "minecraft:open_chest": 4,
       "minecraft:fall_one_cm": 31746,
-      "minecraft:total_world_time": 60341,
+      "minecraft:total_world_time": 60592,
       "minecraft:swim_one_cm": 1848,
       "minecraft:fly_one_cm": 143060,
       "minecraft:walk_on_water_one_cm": 2542,
       "minecraft:crouch_one_cm": 777,
       "minecraft:sneak_time": 546,
       "minecraft:deaths": 3
-    },
-    "minecraft:picked_up": {
-      "minecraft:porkchop": 3,
-      "minecraft:dirt": 4,
-      "minecraft:stick": 12,
-      "minecraft:cobblestone": 26,
-      "minecraft:poppy": 2,
-      "minecraft:oak_planks": 23,
-      "minecraft:wildflowers": 2,
-      "minecraft:crafting_table": 2,
-      "minecraft:stone_pickaxe": 1,
-      "minecraft:oak_log": 6,
-      "minecraft:stone_axe": 1,
-      "minecraft:sentry_armor_trim_smithing_template": 2,
-      "minecraft:goat_horn": 1,
-      "minecraft:spider_eye": 2
     }
   },
   "DataVersion": 4671
