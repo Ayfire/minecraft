@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1771883859153
-  login: 1771883280554
+  logout: 1771944778912
+  login: 1771944657456
 money: '0'
 last-account-name: .GDZEY
 logoutlocation:
   world: f62091ae-17e6-44b2-99d0-461f3dbd767f
   world-name: world
-  x: 49.089382
-  y: 66.0
-  z: -14.822411
-  yaw: 45.4012451171875
-  pitch: -4.372528076171875
+  x: 16.4735
+  y: 67.0
+  z: -3.3921256
+  yaw: -101.68444061279297
+  pitch: 32.18269348144531
 lastlocation:
   world: f62091ae-17e6-44b2-99d0-461f3dbd767f
   world-name: world

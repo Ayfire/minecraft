@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1771876928359
-  login: 1771876914017
+  logout: 1771931001820
+  login: 1771930985290
 money: '0'
 last-account-name: .Ayfire2544
 lastlocation:
@@ -34,5 +34,5 @@ logoutlocation:
   x: 22.5
   y: 66.0
   z: -1.5
-  yaw: 85.88714599609375
-  pitch: 24.142410278320312
+  yaw: 5.055877685546875
+  pitch: 24.3829345703125

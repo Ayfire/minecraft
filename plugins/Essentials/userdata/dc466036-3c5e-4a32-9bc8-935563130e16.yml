@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1771891517039
+  lastteleport: 1771974637256
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1771891604273
-  login: 1771887580298
+  logout: 1771975801527
+  login: 1771965985665
 money: '0'
 last-account-name: NoKeyShin
 logoutlocation:
   world: f62091ae-17e6-44b2-99d0-461f3dbd767f
   world-name: world
-  x: 35.12909433959406
+  x: 40.49553931393788
   y: 35.0
-  z: -18.808561801053596
-  yaw: 102.44796752929688
-  pitch: 23.45060920715332
+  z: -18.400913641305124
+  yaw: 123.428466796875
+  pitch: 13.437573432922363
 lastlocation:
   world: f62091ae-17e6-44b2-99d0-461f3dbd767f
   world-name: world
-  x: 29.278783411753917
-  y: 65.0
-  z: -28.962501687329137
-  yaw: -111.559814453125
-  pitch: 17.099973678588867
+  x: 71.69567049891646
+  y: -3.0
+  z: -25.30000001192093
+  yaw: -5.82415771484375
+  pitch: 23.090728759765625
 homes:
   b:
     world: f62091ae-17e6-44b2-99d0-461f3dbd767f
@@ -61,3 +61,19 @@ homes:
     z: -116.5
     yaw: -25.01141357421875
     pitch: 40.8000602722168
+  zombie2:
+    world: f62091ae-17e6-44b2-99d0-461f3dbd767f
+    world-name: world
+    x: -28.7244874774302
+    y: -1.0
+    z: -35.349379838949474
+    yaw: -123.75262451171875
+    pitch: 43.20024871826172
+  v:
+    world: f62091ae-17e6-44b2-99d0-461f3dbd767f
+    world-name: world
+    x: 274.04145253459205
+    y: 65.0
+    z: 1283.945299003397
+    yaw: -70.18896484375
+    pitch: 10.885869026184082
