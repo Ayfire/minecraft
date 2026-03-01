@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1772239542170
+  lastteleport: 1772325506806
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1772239548879
-  login: 1772238494625
+  logout: 1772325723217
+  login: 1772323151975
 money: '0'
 last-account-name: Ayfire
 logoutlocation:
   world: f62091ae-17e6-44b2-99d0-461f3dbd767f
   world-name: world
-  x: 1.5
-  y: 66.0
-  z: -21.5
-  yaw: 97.58558654785156
-  pitch: 17.949981689453125
+  x: 1.4657065040436594
+  y: 66.875
+  z: -20.30000001192093
+  yaw: 142.56640625
+  pitch: 35.566383361816406
 lastlocation:
   world: f62091ae-17e6-44b2-99d0-461f3dbd767f
   world-name: world
-  x: 42.28426254567663
-  y: 35.0
-  z: -20.560521906682236
-  yaw: -35.36784362792969
-  pitch: 27.942138671875
+  x: 63.705885121182014
+  y: 62.0
+  z: -9.71156571219599
+  yaw: 89.2742919921875
+  pitch: 3.2202606201171875
 homes:
   tout:
     world: f62091ae-17e6-44b2-99d0-461f3dbd767f
@@ -101,14 +101,6 @@ homes:
     z: 12866.780841169264
     yaw: 85.92800903320312
     pitch: 57.63645553588867
-  cave:
-    world: f62091ae-17e6-44b2-99d0-461f3dbd767f
-    world-name: world
-    x: -3479.3867304644095
-    y: 57.0
-    z: 15637.137154931226
-    yaw: 25.26324462890625
-    pitch: 30.93395233154297
   deserttemple:
     world: f62091ae-17e6-44b2-99d0-461f3dbd767f
     world-name: world
@@ -125,3 +117,11 @@ homes:
     z: 29176.915568183955
     yaw: -124.48912811279297
     pitch: 51.497222900390625
+  arraigne:
+    world: f62091ae-17e6-44b2-99d0-461f3dbd767f
+    world-name: world
+    x: -9144.082248284092
+    y: -42.0
+    z: 29259.69999998808
+    yaw: -159.892333984375
+    pitch: 26.807619094848633

@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1772238052040
+  lastteleport: 1772327017162
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1772238086129
-  login: 1772233691147
+  logout: 1772327049162
+  login: 1772304128350
 money: '0'
 last-account-name: _shazi_
 logoutlocation:
   world: f62091ae-17e6-44b2-99d0-461f3dbd767f
   world-name: world
-  x: 64.81600753478273
-  y: -52.0
-  z: -120.30000001192093
-  yaw: -40.61016845703125
-  pitch: 49.799991607666016
+  x: 63.30000001192093
+  y: -52.125
+  z: -121.49169320890552
+  yaw: 86.13980865478516
+  pitch: -2.400010108947754
 lastlocation:
   world: f62091ae-17e6-44b2-99d0-461f3dbd767f
   world-name: world
-  x: 34.91806186490316
-  y: 35.0
-  z: -19.62657587121038
-  yaw: 176.39788818359375
-  pitch: 26.900705337524414
+  x: 72.91503893065817
+  y: 62.0
+  z: -8.80022641025756
+  yaw: -28.78521728515625
+  pitch: 11.400301933288574
 homes:
   village:
     world: f62091ae-17e6-44b2-99d0-461f3dbd767f
@@ -69,3 +69,19 @@ homes:
     z: -582.504565013263
     yaw: 79.1711196899414
     pitch: 26.0743465423584
+  bois:
+    world: 6aac05d3-9313-4c3c-bfd1-998dd9b21ee2
+    world-name: world_nether
+    x: 15.977894241882785
+    y: 128.0
+    z: -86.80690902409847
+    yaw: 1.209228515625
+    pitch: 19.950031280517578
+  top:
+    world: f62091ae-17e6-44b2-99d0-461f3dbd767f
+    world-name: world
+    x: 64.30995928100045
+    y: 62.0
+    z: -9.494000611963948
+    yaw: -93.28518676757812
+    pitch: 14.100035667419434
