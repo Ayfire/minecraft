@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1772327017162
+  lastteleport: 1772410190854
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1772327049162
-  login: 1772304128350
+  logout: 1772410206393
+  login: 1772387092482
 money: '0'
 last-account-name: _shazi_
 logoutlocation:
   world: f62091ae-17e6-44b2-99d0-461f3dbd767f
   world-name: world
-  x: 63.30000001192093
+  x: 63.37929573535055
   y: -52.125
-  z: -121.49169320890552
-  yaw: 86.13980865478516
-  pitch: -2.400010108947754
+  z: -121.45606571297351
+  yaw: 91.0896987915039
+  pitch: -16.35004425048828
 lastlocation:
   world: f62091ae-17e6-44b2-99d0-461f3dbd767f
   world-name: world
-  x: 72.91503893065817
+  x: 76.44896676535814
   y: 62.0
-  z: -8.80022641025756
-  yaw: -28.78521728515625
-  pitch: 11.400301933288574
+  z: -8.050945261267977
+  yaw: 15.014714241027832
+  pitch: 8.250109672546387
 homes:
   village:
     world: f62091ae-17e6-44b2-99d0-461f3dbd767f
