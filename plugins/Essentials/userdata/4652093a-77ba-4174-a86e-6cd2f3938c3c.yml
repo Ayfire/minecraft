@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1772325506806
+  lastteleport: 1772501063521
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1772325723217
-  login: 1772323151975
+  logout: 1772502034660
+  login: 1772496009941
 money: '0'
 last-account-name: Ayfire
 logoutlocation:
   world: f62091ae-17e6-44b2-99d0-461f3dbd767f
   world-name: world
-  x: 1.4657065040436594
-  y: 66.875
-  z: -20.30000001192093
-  yaw: 142.56640625
-  pitch: 35.566383361816406
+  x: 5.300000011920929
+  y: 14.0
+  z: -7.979625694940401
+  yaw: -143.1708984375
+  pitch: -4.319345951080322
 lastlocation:
   world: f62091ae-17e6-44b2-99d0-461f3dbd767f
   world-name: world
-  x: 63.705885121182014
-  y: 62.0
-  z: -9.71156571219599
-  yaw: 89.2742919921875
-  pitch: 3.2202606201171875
+  x: -30.078202444443377
+  y: 65.0
+  z: -20.45806156743395
+  yaw: 87.39361572265625
+  pitch: 49.77982711791992
 homes:
   tout:
     world: f62091ae-17e6-44b2-99d0-461f3dbd767f
@@ -125,3 +125,27 @@ homes:
     z: 29259.69999998808
     yaw: -159.892333984375
     pitch: 26.807619094848633
+  end:
+    world: 07479e0b-3bc8-423d-8e52-8441e3fe4769
+    world-name: world_the_end
+    x: -5.0505671680074045
+    y: 59.0
+    z: -2.2649878277931634
+    yaw: 116.75689697265625
+    pitch: 8.42529296875
+  endport:
+    world: f62091ae-17e6-44b2-99d0-461f3dbd767f
+    world-name: world
+    x: -572.3000000119209
+    y: 14.0
+    z: 1884.767263069861
+    yaw: 121.41452026367188
+    pitch: 38.16854476928711
+  gold:
+    world: 6aac05d3-9313-4c3c-bfd1-998dd9b21ee2
+    world-name: world_nether
+    x: 6.538778421655807
+    y: 250.0
+    z: -4.647794549259349
+    yaw: 1.18157958984375
+    pitch: 88.5265884399414
